@@ -8,6 +8,7 @@ public class Student {
     private String location;
     private String tel;
     private String jid;
+    private String jid2;
     private String ddi;
 
     @Override
